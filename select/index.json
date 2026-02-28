@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Let It Be (Remastered 2009)",
   "base_artist": "The Beatles",
-  "createdAt": "2025-12-14T19:24:28.489776Z",
+  "createdAt": "2026-02-28T06:23:22.185704Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -135,10 +135,18 @@
     {
       "id": "lrclib_17",
       "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/17_Let_It_Be_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
       "title": "Let It Be [Remastered 2015]",
       "artist": "The Beatles",
       "has_synced": true,
-      "path": "select/17_Let_It_Be_[Remastered_2015]_The_Beatles.lrc"
+      "path": "select/18_Let_It_Be_[Remastered_2015]_The_Beatles.lrc"
     },
     {
       "id": "petitlyrics_1",
